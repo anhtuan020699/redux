@@ -21,7 +21,7 @@ function App() {
       }}
     >
       <Title style={{ textAlign: "center" }}>
-        TODO APP with REDUX đã đổi tên
+        TODO APP with REDUX test deploy
       </Title>
       <Filters />
       <Divider />
